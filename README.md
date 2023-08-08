@@ -1,7 +1,7 @@
 # Shay-Saad Wasil
 Highly Skilled Software Engineer | Full-Stack Developer | Research Specialist
 
-[LinkedIn]([https://www.linkedin.com/in/shay-wasil-3bb889130/) | [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/shay-wasil-3bb889130/) | [Portfolio](https://yourportfolio.com)
 
 ## Summary
 I am a passionate and skilled software engineer with a strong background in academic research. My expertise lies in developing innovative full-stack solutions. Through my leadership experience, I excel in driving team success by fostering an efficient work environment. I am enthusiastic about collaborating with organizations to uphold quality and efficiency.
